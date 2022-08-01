@@ -1,1 +1,2 @@
-# HCI-Sign-Language-Detection
+# Human-Computer Interaction
+# Sign-Language-Detection
